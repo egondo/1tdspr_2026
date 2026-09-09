@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(136, 35, 35);
+  color: black;
+}
+
+#sub-title {
+  font-size: 26px;
+}
+
+#secondary-title {
+  font-size: 32px;
+}
+
+.menu-item {
+  font-size: 26px;
+  color: red;
+
+  & a {
+    color: darkred;
+  }
+}
+
+/* .menu-item a {
+  color: darkred;
+} */
+
+#header {
+  background-color: rgba(0, 0, 0, 0.2);
+  color: whitesmoke;
+  text-align: center;
+  height: 45px;
+  width: 300px;
+}
+
+/* .abobrinha {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
